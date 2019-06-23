@@ -39,5 +39,5 @@ $cardPosition = top;
 
 $trello->createCard($cardName, $cardDescription, $listID, $labelID, $cardPosition);
 
-var_dump($trello->response; 
+var_dump($trello->response); 
 ```
