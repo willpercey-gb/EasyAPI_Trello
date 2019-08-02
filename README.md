@@ -35,7 +35,7 @@ $cardDescription = '';
 $listID = '';
 $labelID = '';
 //$cardPosition = 'bottom';
-$cardPosition = top;
+$cardPosition = 'top';
 
 $trello->createCard($cardName, $cardDescription, $listID, $labelID, $cardPosition);
 
