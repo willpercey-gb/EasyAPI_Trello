@@ -1,4 +1,4 @@
-![EasyMail](https://uwebpro.dev/ext/logo_small.jpg)
+![EasyMail](https://uwebpro.com/images/logo_small.jpg)
 # EasyAPI Trello
 
 ## Built
